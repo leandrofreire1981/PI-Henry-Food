@@ -1,0 +1,25 @@
+{
+"results": [
+{
+"id": 632706,
+"title": "Argentine-Style Empanadas",
+"image": "https://spoonacular.com/recipeImages/632706-312x231.jpg",
+"imageType": "jpg"
+},
+{
+"id": 653362,
+"title": "Nutella frangipane empanadas",
+"image": "https://spoonacular.com/recipeImages/653362-312x231.jpg",
+"imageType": "jpg"
+},
+{
+"id": 638784,
+"title": "Choco Coco Loco Empanada Dessert",
+"image": "https://spoonacular.com/recipeImages/638784-312x231.jpg",
+"imageType": "jpg"
+}
+],
+"offset": 0,
+"number": 10,
+"totalResults": 3
+}

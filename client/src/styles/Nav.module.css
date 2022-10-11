@@ -1,0 +1,16 @@
+.nav {
+    display: flex;
+    width: 100%;
+    border-bottom: 2px solid rgb(102, 80, 80);
+    gap: 30px;
+    padding: 0 30px;
+    background-color: rgb(0, 0, 0);
+    box-sizing: border-box;
+}
+
+.Link {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+
+}

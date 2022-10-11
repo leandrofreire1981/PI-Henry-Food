@@ -1,0 +1,303 @@
+[
+{
+"name": "",
+"steps": [
+{
+"number": 1,
+"step": "In a large skillet, heat the olive oil over medium high heat.",
+"ingredients": [
+{
+"id": 4053,
+"name": "olive oil",
+"localizedName": "olive oil",
+"image": "olive-oil.jpg"
+}
+],
+"equipment": [
+{
+"id": 404645,
+"name": "frying pan",
+"localizedName": "frying pan",
+"image": "pan.png"
+}
+]
+},
+{
+"number": 2,
+"step": "Add the onion, green onion, garlic, raisins and olives. Cook until the onion and garlic are soft and fragrant.",
+"ingredients": [
+{
+"id": 11291,
+"name": "green onions",
+"localizedName": "green onions",
+"image": "spring-onions.jpg"
+},
+{
+"id": 9299,
+"name": "raisins",
+"localizedName": "raisins",
+"image": "raisins.jpg"
+},
+{
+"id": 11215,
+"name": "garlic",
+"localizedName": "garlic",
+"image": "garlic.png"
+},
+{
+"id": 9195,
+"name": "olives",
+"localizedName": "olives",
+"image": "olives-mixed.jpg"
+},
+{
+"id": 11282,
+"name": "onion",
+"localizedName": "onion",
+"image": "brown-onion.png"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 3,
+"step": "Add the ground beef and brown thoroughly. Stir in the soy sauce and water. Cook for 2 to 3 minutes, stirring the mixture to prevent burning. Season with salt and pepper, transfer the filling to a large bowl and allow to cool while you make the dough. When the filling is cool, stir in the boiled egg.In a large bowl, combine the flour, salt, sugar (if using honey, mix the honey together w/the egg yolk and water.)",
+"ingredients": [
+{
+"id": 1102047,
+"name": "salt and pepper",
+"localizedName": "salt and pepper",
+"image": "salt-and-pepper.jpg"
+},
+{
+"id": 10023572,
+"name": "ground beef",
+"localizedName": "ground beef",
+"image": "fresh-ground-beef.jpg"
+},
+{
+"id": 16124,
+"name": "soy sauce",
+"localizedName": "soy sauce",
+"image": "soy-sauce.jpg"
+},
+{
+"id": 1125,
+"name": "egg yolk",
+"localizedName": "egg yolk",
+"image": "egg-yolk.jpg"
+},
+{
+"id": 0,
+"name": "dough",
+"localizedName": "dough",
+"image": "pizza-dough"
+},
+{
+"id": 20081,
+"name": "all purpose flour",
+"localizedName": "all purpose flour",
+"image": "flour.png"
+},
+{
+"id": 19296,
+"name": "honey",
+"localizedName": "honey",
+"image": "honey.png"
+},
+{
+"id": 19335,
+"name": "sugar",
+"localizedName": "sugar",
+"image": "sugar-in-bowl.png"
+},
+{
+"id": 14412,
+"name": "water",
+"localizedName": "water",
+"image": "water.png"
+},
+{
+"id": 2047,
+"name": "salt",
+"localizedName": "salt",
+"image": "salt.jpg"
+},
+{
+"id": 1123,
+"name": "egg",
+"localizedName": "egg",
+"image": "egg.png"
+}
+],
+"equipment": [
+{
+"id": 404783,
+"name": "bowl",
+"localizedName": "bowl",
+"image": "bowl.jpg"
+}
+],
+"length": {
+"number": 2,
+"unit": "minutes"
+}
+},
+{
+"number": 4,
+"step": "Add the shortening and butter and use your fingers to break it into tiny crumbles (very important that this is done well! If you have a food processor, use thatI dont, so I use what God gave me!)",
+"ingredients": [
+{
+"id": 4615,
+"name": "shortening",
+"localizedName": "shortening",
+"image": "shortening.jpg"
+},
+{
+"id": 1001,
+"name": "butter",
+"localizedName": "butter",
+"image": "butter-sliced.jpg"
+}
+],
+"equipment": [
+{
+"id": 404771,
+"name": "food processor",
+"localizedName": "food processor",
+"image": "food-processor.png"
+}
+]
+},
+{
+"number": 5,
+"step": "Add the egg/water/honey mixture to the dry ingredients and mix with a fork until the dough comes together in a mass. Ditch the fork and use your hands to gently kneed the dough into a smoothish ball. Dont do this for too long, just long enough to create a nice ball of dough. Wrap in plastic wrap and refrigerate for about 1 hour.",
+"ingredients": [
+{
+"id": 0,
+"name": "dough",
+"localizedName": "dough",
+"image": "pizza-dough"
+},
+{
+"id": 19296,
+"name": "honey",
+"localizedName": "honey",
+"image": "honey.png"
+},
+{
+"id": 14412,
+"name": "water",
+"localizedName": "water",
+"image": "water.png"
+},
+{
+"id": 10018364,
+"name": "wrap",
+"localizedName": "wrap",
+"image": "flour-tortilla.jpg"
+},
+{
+"id": 1123,
+"name": "egg",
+"localizedName": "egg",
+"image": "egg.png"
+}
+],
+"equipment": [
+{
+"id": 404730,
+"name": "plastic wrap",
+"localizedName": "plastic wrap",
+"image": "plastic-wrap.jpg"
+}
+],
+"length": {
+"number": 60,
+"unit": "minutes"
+}
+},
+{
+"number": 6,
+"step": "Remove the dough from the refrigerator when thoroughly chilled. On a floured surface, roll the dough out into a thick, small rectangle and cut in half. Working with one half of dough at a time, continue to roll the dough into a larger rectangle until it is about 1/8 inch thick. Using a circular cookie cutter, cut out section of dough and set aside. Do the same with the other half of dough.Assembly:Take each cut out circle and roll it out so it is thin, but not so thin you can see through it. Put about 2 tablespoons of filling in the center of the dough circle and seal the edges.",
+"ingredients": [
+{
+"id": 10118192,
+"name": "cookies",
+"localizedName": "cookies",
+"image": "shortbread-cookies.jpg"
+},
+{
+"id": 0,
+"name": "dough",
+"localizedName": "dough",
+"image": "pizza-dough"
+},
+{
+"id": 0,
+"name": "roll",
+"localizedName": "roll",
+"image": "dinner-yeast-rolls.jpg"
+}
+],
+"equipment": [
+{
+"id": 221429,
+"name": "cookie cutter",
+"localizedName": "cookie cutter",
+"image": "cookie-cutters.jpg"
+}
+]
+},
+{
+"number": 7,
+"step": "Place the filled empanada on a lined baking sheet. Lightly whisk your reserved egg white. Before placing in the oven, brush the top of each empanada with the egg white.",
+"ingredients": [
+{
+"id": 1124,
+"name": "egg whites",
+"localizedName": "egg whites",
+"image": "egg-white.jpg"
+}
+],
+"equipment": [
+{
+"id": 404727,
+"name": "baking sheet",
+"localizedName": "baking sheet",
+"image": "baking-sheet.jpg"
+},
+{
+"id": 404661,
+"name": "whisk",
+"localizedName": "whisk",
+"image": "whisk.png"
+},
+{
+"id": 404784,
+"name": "oven",
+"localizedName": "oven",
+"image": "oven.jpg"
+}
+]
+},
+{
+"number": 8,
+"step": "Bake at 375 degrees F or until golden brown.",
+"ingredients": [ ],
+"equipment": [
+{
+"id": 404784,
+"name": "oven",
+"localizedName": "oven",
+"image": "oven.jpg",
+"temperature": {
+"number": 375.0,
+"unit": "Fahrenheit"
+}
+}
+]
+}
+]
+}
+]

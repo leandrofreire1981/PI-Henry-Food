@@ -1,0 +1,727 @@
+{
+"results": [
+{
+"vegetarian": false,
+"vegan": false,
+"glutenFree": true,
+"dairyFree": false,
+"veryHealthy": false,
+"cheap": false,
+"veryPopular": false,
+"sustainable": false,
+"lowFodmap": false,
+"weightWatcherSmartPoints": 24,
+"gaps": "no",
+"preparationMinutes": -1,
+"cookingMinutes": -1,
+"aggregateLikes": 1,
+"healthScore": 1,
+"creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+"license": "CC BY 3.0",
+"sourceName": "Foodista",
+"pricePerServing": 141.48,
+"id": 664959,
+"title": "Warm Cucumber Soup (Sopa De Pepinos)",
+"readyInMinutes": 45,
+"servings": 6,
+"sourceUrl": "http://www.foodista.com/recipe/ZSTJJYQV/warm-cucumber-soup-sopa-de-pepinos",
+"image": "https://spoonacular.com/recipeImages/664959-312x231.jpg",
+"imageType": "jpg",
+"summary": "Warm Cucumber Soup (Sopa De Pepinos) might be just the <b>South American</b> recipe you are searching for. This recipe makes 6 servings with <b>512 calories</b>, <b>7g of protein</b>, and <b>37g of fat</b> each. For <b>$1.52 per serving</b>, this recipe <b>covers 10%</b> of your daily requirements of vitamins and minerals. It works well as a soup. It can be enjoyed any time, but it is especially good for <b>Autumn</b>. Only a few people made this recipe, and 1 would say it hit the spot. From preparation to the plate, this recipe takes approximately <b>45 minutes</b>. If you have milk, sauce, wine, and a few other ingredients on hand, you can make it. It is a good option if you're following a <b>gluten free and vegetarian</b> diet. All things considered, we decided this recipe <b>deserves a spoonacular score of 25%</b>. This score is rather bad. Try <a href=\"https://spoonacular.com/recipes/warm-cucumber-soup-with-scallop-and-sole-mousselines-1320\">Warm Cucumber Soup with Scallop and Sole Mousselines</a>, <a href=\"https://spoonacular.com/recipes/garlic-soup-sopa-de-ajo-219522\">Garlic Soup (Sopa de Ajo)</a>, and <a href=\"https://spoonacular.com/recipes/garlic-soup-sopa-de-ajo-from-spain-38651\">Garlic Soup (sopa De Ajo) From Spain</a> for similar recipes.",
+"cuisines": [
+"South American",
+"Latin American"
+],
+"dishTypes": [
+"soup"
+],
+"diets": [
+"gluten free"
+],
+"occasions": [
+"fall",
+"winter"
+],
+"analyzedInstructions": [
+{
+"name": "",
+"steps": [
+{
+"number": 1,
+"step": "White Sauce:So first things first we need to get this white sauce done before the actual soup.",
+"ingredients": [
+{
+"id": 0,
+"name": "sauce",
+"localizedName": "sauce",
+"image": ""
+},
+{
+"id": 0,
+"name": "soup",
+"localizedName": "soup",
+"image": ""
+}
+],
+"equipment": [ ]
+},
+{
+"number": 2,
+"step": "Whisk the cornstarch and milk in a small sauce pot before heating it up. Then add in the rest of ingredients the stock, butter, and seasonings. Bring to a boil, stir, and let it thicken up. Turn heat off and set aside.Soup:In a pot start cooking the cucumbers  with the water, butter, and salt until fork tender. With a hand blender or blender pulse till smooth the cooked cucumber with the water it was cooking in, white sauce, chopped onions, and beef stock. Then transfer back into the same pot and bring to a boil. A minute before serving add into the soup the heavy cream, white wine, the 2 egg yolks, and nutmeg, stir to combine. Taste for seasonings then serve and garnish with cilantro or parsley.",
+"ingredients": [
+{
+"id": 1053,
+"name": "heavy cream",
+"localizedName": "heavy cream",
+"image": "fluid-cream.jpg"
+},
+{
+"id": 6170,
+"name": "beef stock",
+"localizedName": "beef stock",
+"image": "beef-broth.png"
+},
+{
+"id": 20027,
+"name": "corn starch",
+"localizedName": "corn starch",
+"image": "white-powder.jpg"
+},
+{
+"id": 1042027,
+"name": "seasoning",
+"localizedName": "seasoning",
+"image": "seasoning.png"
+},
+{
+"id": 14106,
+"name": "white wine",
+"localizedName": "white wine",
+"image": "white-wine.jpg"
+},
+{
+"id": 11206,
+"name": "cucumber",
+"localizedName": "cucumber",
+"image": "cucumber.jpg"
+},
+{
+"id": 1125,
+"name": "egg yolk",
+"localizedName": "egg yolk",
+"image": "egg-yolk.jpg"
+},
+{
+"id": 11165,
+"name": "cilantro",
+"localizedName": "cilantro",
+"image": "cilantro.png"
+},
+{
+"id": 11297,
+"name": "parsley",
+"localizedName": "parsley",
+"image": "parsley.jpg"
+},
+{
+"id": 1001,
+"name": "butter",
+"localizedName": "butter",
+"image": "butter-sliced.jpg"
+},
+{
+"id": 2025,
+"name": "nutmeg",
+"localizedName": "nutmeg",
+"image": "ground-nutmeg.jpg"
+},
+{
+"id": 11282,
+"name": "onion",
+"localizedName": "onion",
+"image": "brown-onion.png"
+},
+{
+"id": 0,
+"name": "sauce",
+"localizedName": "sauce",
+"image": ""
+},
+{
+"id": 1006615,
+"name": "stock",
+"localizedName": "stock",
+"image": "chicken-broth.png"
+},
+{
+"id": 14412,
+"name": "water",
+"localizedName": "water",
+"image": "water.png"
+},
+{
+"id": 1077,
+"name": "milk",
+"localizedName": "milk",
+"image": "milk.png"
+},
+{
+"id": 2047,
+"name": "salt",
+"localizedName": "salt",
+"image": "salt.jpg"
+},
+{
+"id": 0,
+"name": "soup",
+"localizedName": "soup",
+"image": ""
+}
+],
+"equipment": [
+{
+"id": 404776,
+"name": "immersion blender",
+"localizedName": "immersion blender",
+"image": "immersion-blender.png"
+},
+{
+"id": 404752,
+"name": "pot",
+"localizedName": "pot",
+"image": "stock-pot.jpg"
+},
+{
+"id": 404726,
+"name": "blender",
+"localizedName": "blender",
+"image": "blender.png"
+},
+{
+"id": 404661,
+"name": "whisk",
+"localizedName": "whisk",
+"image": "whisk.png"
+}
+]
+}
+]
+}
+],
+"spoonacularSourceUrl": "https://spoonacular.com/warm-cucumber-soup-sopa-de-pepinos-664959"
+},
+{
+"vegetarian": false,
+"vegan": false,
+"glutenFree": true,
+"dairyFree": true,
+"veryHealthy": false,
+"cheap": false,
+"veryPopular": false,
+"sustainable": false,
+"lowFodmap": false,
+"weightWatcherSmartPoints": 9,
+"gaps": "no",
+"preparationMinutes": -1,
+"cookingMinutes": -1,
+"aggregateLikes": 5,
+"healthScore": 39,
+"creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+"license": "CC BY 3.0",
+"sourceName": "Foodista",
+"pricePerServing": 307.98,
+"id": 631912,
+"title": "A Post Thanksgiving “sopa De Tortilla”",
+"readyInMinutes": 150,
+"servings": 5,
+"sourceUrl": "http://www.foodista.com/recipe/JF3JJTKG/a-post-thanksgiving-sopa-de-tortilla",
+"image": "https://spoonacular.com/recipeImages/631912-312x231.jpg",
+"imageType": "jpg",
+"summary": "A Post Thanksgiving “sopa De Tortilla” might be just the <b>South American</b> recipe you are searching for. This gluten free, dairy free, and whole 30 recipe serves 5 and costs <b>$3.08 per serving</b>. This main course has <b>444 calories</b>, <b>36g of protein</b>, and <b>26g of fat</b> per serving. 5 people have made this recipe and would make it again. It can be enjoyed any time, but it is especially good for <b>Thanksgiving</b>. If you have avocado, poblano pepper, celery, and a few other ingredients on hand, you can make it. To use up the celery you could follow this main course with the <a href=\"https://spoonacular.com/recipes/pistachio-shortbread-cookies-557632\">Pistachio Shortbread Cookies</a> as a dessert. From preparation to the plate, this recipe takes roughly <b>2 hours and 30 minutes</b>. All things considered, we decided this recipe <b>deserves a spoonacular score of 82%</b>. This score is spectacular. Try <a href=\"https://spoonacular.com/recipes/thanksgiving-appetizers-two-s-in-one-post-509189\">Thanksgiving Appetizers – Two s in One Post</a>, <a href=\"https://spoonacular.com/recipes/fire-roasted-tortilla-soup-with-ancho-tortilla-strips-667023\">Fire Roasted Tortilla Soup with Ancho Tortilla Strips</a>, and <a href=\"https://spoonacular.com/recipes/sopa-de-fideo-606174\">Sopa de Fideo</a> for similar recipes.",
+"cuisines": [
+"South American",
+"Latin American"
+],
+"dishTypes": [
+"lunch",
+"main course",
+"main dish",
+"dinner"
+],
+"diets": [
+"gluten free",
+"dairy free",
+"whole 30"
+],
+"occasions": [
+"thanksgiving"
+],
+"analyzedInstructions": [
+{
+"name": "Stock Instructions",
+"steps": [
+{
+"number": 1,
+"step": "Drizzle 2 tablespoons of olive oil in bottom of large stock pot.",
+"ingredients": [
+{
+"id": 4053,
+"name": "olive oil",
+"localizedName": "olive oil",
+"image": "olive-oil.jpg"
+},
+{
+"id": 1006615,
+"name": "stock",
+"localizedName": "stock",
+"image": "chicken-broth.png"
+}
+],
+"equipment": [
+{
+"id": 404752,
+"name": "pot",
+"localizedName": "pot",
+"image": "stock-pot.jpg"
+}
+]
+},
+{
+"number": 2,
+"step": "Add quartered onion, 2 cloves of garlic and 2 stalks of celery, and turkey breast.Peel two carrots and add the peels to the stock pot along with 2 carrots and 2 celery stalks.  Reserve two carrots and 2 celery stalks for later use.",
+"ingredients": [
+{
+"id": 10111143,
+"name": "celery rib",
+"localizedName": "celery sticks",
+"image": "celery.jpg"
+},
+{
+"id": 5696,
+"name": "turkey breast",
+"localizedName": "turkey breast",
+"image": "turkey-breast.jpg"
+},
+{
+"id": 11124,
+"name": "carrot",
+"localizedName": "carrot",
+"image": "sliced-carrot.png"
+},
+{
+"id": 1002011,
+"name": "clove",
+"localizedName": "clove",
+"image": "cloves.jpg"
+},
+{
+"id": 11215,
+"name": "garlic",
+"localizedName": "garlic",
+"image": "garlic.png"
+},
+{
+"id": 11282,
+"name": "onion",
+"localizedName": "onion",
+"image": "brown-onion.png"
+},
+{
+"id": 1006615,
+"name": "stock",
+"localizedName": "stock",
+"image": "chicken-broth.png"
+}
+],
+"equipment": [
+{
+"id": 404752,
+"name": "pot",
+"localizedName": "pot",
+"image": "stock-pot.jpg"
+}
+]
+},
+{
+"number": 3,
+"step": "Cut the stems off your Cilantro bunch.   Reserve the leaves.",
+"ingredients": [
+{
+"id": 11165,
+"name": "cilantro",
+"localizedName": "cilantro",
+"image": "cilantro.png"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 4,
+"step": "Add stems to the stock pot.",
+"ingredients": [
+{
+"id": 1006615,
+"name": "stock",
+"localizedName": "stock",
+"image": "chicken-broth.png"
+}
+],
+"equipment": [
+{
+"id": 404752,
+"name": "pot",
+"localizedName": "pot",
+"image": "stock-pot.jpg"
+}
+]
+},
+{
+"number": 5,
+"step": "Add water to your pot so that it is 3/4 full.Cover and boil for at least 1 hour, preferably 2 hours.  You should set a timer to check on your stock. Do not add salt before you have reduced your stock.  The stock should not reduce to less than one quarter of your pot.",
+"ingredients": [
+{
+"id": 1006615,
+"name": "stock",
+"localizedName": "stock",
+"image": "chicken-broth.png"
+},
+{
+"id": 14412,
+"name": "water",
+"localizedName": "water",
+"image": "water.png"
+},
+{
+"id": 2047,
+"name": "salt",
+"localizedName": "salt",
+"image": "salt.jpg"
+}
+],
+"equipment": [
+{
+"id": 404695,
+"name": "kitchen timer",
+"localizedName": "kitchen timer",
+"image": "kitchen-timer.jpg"
+},
+{
+"id": 404752,
+"name": "pot",
+"localizedName": "pot",
+"image": "stock-pot.jpg"
+}
+],
+"length": {
+"number": 180,
+"unit": "minutes"
+}
+},
+{
+"number": 6,
+"step": "Remove turkey from bone.  Reserve the meat.  Discard the bone",
+"ingredients": [
+{
+"id": 5165,
+"name": "whole turkey",
+"localizedName": "whole turkey",
+"image": "turkey-raw-whole.jpg"
+},
+{
+"id": 0,
+"name": "bone",
+"localizedName": "bone",
+"image": ""
+},
+{
+"id": 1065062,
+"name": "meat",
+"localizedName": "meat",
+"image": "whole-chicken.jpg"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 7,
+"step": "Strain the soup by using a colander over another stock pot",
+"ingredients": [
+{
+"id": 1006615,
+"name": "stock",
+"localizedName": "stock",
+"image": "chicken-broth.png"
+},
+{
+"id": 0,
+"name": "soup",
+"localizedName": "soup",
+"image": ""
+}
+],
+"equipment": [
+{
+"id": 404752,
+"name": "pot",
+"localizedName": "pot",
+"image": "stock-pot.jpg"
+},
+{
+"id": 404639,
+"name": "colander",
+"localizedName": "colander",
+"image": "colander.jpg"
+}
+]
+},
+{
+"number": 8,
+"step": "Discard the vegetables",
+"ingredients": [
+{
+"id": 11583,
+"name": "vegetable",
+"localizedName": "vegetable",
+"image": "mixed-vegetables.png"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 9,
+"step": "Set aside the stock you will use for the soup (1 to 2 cups per guest) and pour the rest into ice cubes for later use.Soup Instructions:In blender add 1  8 oz. can of organic stewed tomatoes and  cup of olive oil, pinch of salt  and puree with roasted pepper* and set aside for later use.",
+"ingredients": [
+{
+"id": 11533,
+"name": "stewed tomatoes",
+"localizedName": "stewed tomatoes",
+"image": "tomatoes-canned.png"
+},
+{
+"id": 10014412,
+"name": "ice cubes",
+"localizedName": "ice cubes",
+"image": "ice-cubes.png"
+},
+{
+"id": 4053,
+"name": "olive oil",
+"localizedName": "olive oil",
+"image": "olive-oil.jpg"
+},
+{
+"id": 1002030,
+"name": "pepper",
+"localizedName": "pepper",
+"image": "pepper.jpg"
+},
+{
+"id": 1006615,
+"name": "stock",
+"localizedName": "stock",
+"image": "chicken-broth.png"
+},
+{
+"id": 2047,
+"name": "salt",
+"localizedName": "salt",
+"image": "salt.jpg"
+},
+{
+"id": 0,
+"name": "soup",
+"localizedName": "soup",
+"image": ""
+}
+],
+"equipment": [
+{
+"id": 404726,
+"name": "blender",
+"localizedName": "blender",
+"image": "blender.png"
+}
+]
+},
+{
+"number": 10,
+"step": "Add 2 carrots cubed to stock",
+"ingredients": [
+{
+"id": 11124,
+"name": "carrot",
+"localizedName": "carrot",
+"image": "sliced-carrot.png"
+},
+{
+"id": 1006615,
+"name": "stock",
+"localizedName": "stock",
+"image": "chicken-broth.png"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 11,
+"step": "Add 2 celery stalks chopped to stock",
+"ingredients": [
+{
+"id": 10111143,
+"name": "celery rib",
+"localizedName": "celery sticks",
+"image": "celery.jpg"
+},
+{
+"id": 1006615,
+"name": "stock",
+"localizedName": "stock",
+"image": "chicken-broth.png"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 12,
+"step": "Cover and boil for 30 minutes until the vegetables are tender.",
+"ingredients": [
+{
+"id": 11583,
+"name": "vegetable",
+"localizedName": "vegetable",
+"image": "mixed-vegetables.png"
+}
+],
+"equipment": [ ],
+"length": {
+"number": 30,
+"unit": "minutes"
+}
+},
+{
+"number": 13,
+"step": "Add 1/4cup increments pureed pepper-tomato mixture to your broth.",
+"ingredients": [
+{
+"id": 1002030,
+"name": "pepper",
+"localizedName": "pepper",
+"image": "pepper.jpg"
+},
+{
+"id": 11529,
+"name": "tomato",
+"localizedName": "tomato",
+"image": "tomato.png"
+},
+{
+"id": 1006615,
+"name": "broth",
+"localizedName": "broth",
+"image": "chicken-broth.png"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 14,
+"step": "Add 1/3 cup of turkey meat per cup of stock and allow simmering.Taste for salt and finish with a pinch of ground cumin.Ladle soup into bowls and add extra turkey meat, top with strips of fried corn tortillas or good quality store bought tortilla chips.  Top with fresh cilantro and cubes of avocado.*Roast 1 Poblano pepper stove top or in your oven until charred and tender. Peel and devein the Poblano pepper.",
+"ingredients": [
+{
+"id": 18363,
+"name": "corn tortilla",
+"localizedName": "corn tortilla",
+"image": "corn-tortillas.png"
+},
+{
+"id": 11165,
+"name": "fresh cilantro",
+"localizedName": "fresh cilantro",
+"image": "cilantro.png"
+},
+{
+"id": 10011333,
+"name": "poblano pepper",
+"localizedName": "poblano pepper",
+"image": "poblano-peppers.jpg"
+},
+{
+"id": 19056,
+"name": "tortilla chips",
+"localizedName": "tortilla chips",
+"image": "tortilla-chips.jpg"
+},
+{
+"id": 1012014,
+"name": "ground cumin",
+"localizedName": "ground cumin",
+"image": "ground-cumin.jpg"
+},
+{
+"id": 5167,
+"name": "turkey meat",
+"localizedName": "turkey meat",
+"image": "turkey-raw-whole.jpg"
+},
+{
+"id": 9037,
+"name": "avocado",
+"localizedName": "avocado",
+"image": "avocado.jpg"
+},
+{
+"id": 1006615,
+"name": "stock",
+"localizedName": "stock",
+"image": "chicken-broth.png"
+},
+{
+"id": 2047,
+"name": "salt",
+"localizedName": "salt",
+"image": "salt.jpg"
+},
+{
+"id": 0,
+"name": "soup",
+"localizedName": "soup",
+"image": ""
+}
+],
+"equipment": [
+{
+"id": 404794,
+"name": "stove",
+"localizedName": "stove",
+"image": "oven.jpg"
+},
+{
+"id": 404783,
+"name": "bowl",
+"localizedName": "bowl",
+"image": "bowl.jpg"
+},
+{
+"id": 404630,
+"name": "ladle",
+"localizedName": "ladle",
+"image": "ladle.jpg"
+},
+{
+"id": 404784,
+"name": "oven",
+"localizedName": "oven",
+"image": "oven.jpg"
+}
+]
+}
+]
+}
+],
+"spoonacularSourceUrl": "https://spoonacular.com/a-post-thanksgiving-sopa-de-tortilla-631912"
+}
+],
+"offset": 0,
+"number": 100,
+"totalResults": 2
+}

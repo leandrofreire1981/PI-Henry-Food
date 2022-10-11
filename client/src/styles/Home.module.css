@@ -1,0 +1,44 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url('../img/fondo1.jpg');
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 30px;
+    gap: 30px;
+    box-sizing: border-box;
+
+}
+
+.conteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    
+}
+
+.controls {
+    border: 1px solid white;
+
+}
+
+
+
+.button {
+    width: 110px;
+}
+
+.title { 
+    color: white;
+}
+
+#button{
+    color:blue;
+    background-color: brown;
+}

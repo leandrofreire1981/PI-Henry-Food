@@ -1,0 +1,27 @@
+.card{
+    background-color: rgba(34, 33, 33, 0.8);
+    color: white;
+    max-width: 350px;
+    text-decoration: none;
+    padding: 10px;
+    min-height: 450px;
+    max-height: 450px;
+    border-radius: 10px;
+    min-width: 350px;
+    border: 1px solid transparent;
+    transition: 200ms;
+    
+}
+
+.link {
+    text-decoration: none;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.card:hover {
+    border: 1px solid white;
+    transform: scale(1.04);
+}

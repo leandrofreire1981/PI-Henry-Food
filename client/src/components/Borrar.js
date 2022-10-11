@@ -1,0 +1,1 @@
+export const Borrar = () => (<div>hola</div>)

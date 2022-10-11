@@ -1,0 +1,29 @@
+.landing {
+    background-image: url('../img/cocinar.jpg');
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    height: 40px;
+    width: 80px;
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: bold;
+    color: azure;
+    border: 1px solid white;
+    transition: 500ms;
+    
+}
+
+.button:hover{
+    transform: scale(1.1);
+    background-color: black;
+}

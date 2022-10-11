@@ -1,0 +1,322 @@
+{
+"results": [
+{
+"vegetarian": true,
+"vegan": true,
+"glutenFree": false,
+"dairyFree": true,
+"veryHealthy": false,
+"cheap": false,
+"veryPopular": false,
+"sustainable": false,
+"lowFodmap": false,
+"weightWatcherSmartPoints": 11,
+"gaps": "no",
+"preparationMinutes": -1,
+"cookingMinutes": -1,
+"aggregateLikes": 1,
+"healthScore": 17,
+"creditsText": "Foodista.com – The Cooking Encyclopedia Everyone Can Edit",
+"license": "CC BY 3.0",
+"sourceName": "Foodista",
+"pricePerServing": 78.78,
+"id": 654396,
+"title": "Pan Con L'uva",
+"readyInMinutes": 45,
+"servings": 10,
+"sourceUrl": "https://www.foodista.com/recipe/G7J22RFK/pan-con-luva",
+"image": "https://spoonacular.com/recipeImages/654396-312x231.jpg",
+"imageType": "jpg",
+"summary": "If you want to add more <b>dairy free, lacto ovo vegetarian, and vegan</b> recipes to your recipe box, Pan Con L'uva might be a recipe you should try. This recipe serves 10. This side dish has <b>389 calories</b>, <b>6g of protein</b>, and <b>12g of fat</b> per serving. For <b>79 cents per serving</b>, this recipe <b>covers 12%</b> of your daily requirements of vitamins and minerals. This recipe from Foodista has 1 fans. If you have aniseed, caster sugar, water, and a few other ingredients on hand, you can make it. From preparation to the plate, this recipe takes approximately <b>approximately 45 minutes</b>. Overall, this recipe earns a <b>pretty good spoonacular score of 59%</b>. Similar recipes include <a href=\"https://spoonacular.com/recipes/schiacciata-con-luva-122890\">Schiacciata Con L'uva</a>, <a href=\"https://spoonacular.com/recipes/focaccia-with-grapes-schiacciata-con-luva-47359\">Focaccia with Grapes (Schiacciata con L'uva)</a>, and <a href=\"https://spoonacular.com/recipes/grape-and-grappa-focaccia-schiacciata-con-luva-recipe-122873\">Grape and Grappa Focaccia (Schiacciata con l'uva) Recipe</a>.",
+"cuisines": [ ],
+"dishTypes": [
+"side dish"
+],
+"diets": [
+"dairy free",
+"lacto ovo vegetarian",
+"vegan"
+],
+"occasions": [ ],
+"analyzedInstructions": [
+{
+"name": "",
+"steps": [
+{
+"number": 1,
+"step": "Wash and clean grapes. Preheat oven to 180C (about 350F).",
+"ingredients": [
+{
+"id": 9132,
+"name": "grapes",
+"localizedName": "grapes",
+"image": "red-grapes.jpg"
+}
+],
+"equipment": [
+{
+"id": 404784,
+"name": "oven",
+"localizedName": "oven",
+"image": "oven.jpg",
+"temperature": {
+"number": 180.0,
+"unit": "Celsius"
+}
+}
+]
+},
+{
+"number": 2,
+"step": "Pour flour directly onto a smooth surface (marble or glass). Make a hole in the center and crumble yeast into it together with a pinch of salt.",
+"ingredients": [
+{
+"id": 20081,
+"name": "all purpose flour",
+"localizedName": "all purpose flour",
+"image": "flour.png"
+},
+{
+"id": 18375,
+"name": "yeast",
+"localizedName": "yeast",
+"image": "yeast-granules.jpg"
+},
+{
+"id": 2047,
+"name": "salt",
+"localizedName": "salt",
+"image": "salt.jpg"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 3,
+"step": "Add little water. With your forefinger start turning ingredients around so that a little dough ball is formed (remaining flour will be all around). Little by little add small amounts of water and knead with a finger. When the dough ball is pretty big, start kneading using both hands until dough is soft and smooth. At this point, gradually add four tablespoons of sugar and four tablespoons of oil. If dough is too dry, add a little more water; otherwise, if its too damp, add a little flour.",
+"ingredients": [
+{
+"id": 0,
+"name": "dough",
+"localizedName": "dough",
+"image": "pizza-dough"
+},
+{
+"id": 20081,
+"name": "all purpose flour",
+"localizedName": "all purpose flour",
+"image": "flour.png"
+},
+{
+"id": 19335,
+"name": "sugar",
+"localizedName": "sugar",
+"image": "sugar-in-bowl.png"
+},
+{
+"id": 14412,
+"name": "water",
+"localizedName": "water",
+"image": "water.png"
+},
+{
+"id": 4582,
+"name": "cooking oil",
+"localizedName": "cooking oil",
+"image": "vegetable-oil.jpg"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 4,
+"step": "Form a ball with dough and let it rise at room temperature for about an hour wrapped in tea cloths (rising depends on temperature: it can take half an hour in summer or up to an hour and a half in winter).",
+"ingredients": [
+{
+"id": 0,
+"name": "dough",
+"localizedName": "dough",
+"image": "pizza-dough"
+},
+{
+"id": 14355,
+"name": "tea",
+"localizedName": "tea",
+"image": "tea-bags.jpg"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 5,
+"step": "When the dough has become twice its size, split it into 1/3 and 2/3 parts.",
+"ingredients": [
+{
+"id": 0,
+"name": "dough",
+"localizedName": "dough",
+"image": "pizza-dough"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 6,
+"step": "Roll out 2/3 of dough with a rolling pin directly onto baking paper (that will be placed over a baking sheet). Riddle the sheet of pastry with a fork so that it wont swell during baking.",
+"ingredients": [
+{
+"id": 0,
+"name": "dough",
+"localizedName": "dough",
+"image": "pizza-dough"
+},
+{
+"id": 0,
+"name": "roll",
+"localizedName": "roll",
+"image": "dinner-yeast-rolls.jpg"
+}
+],
+"equipment": [
+{
+"id": 404770,
+"name": "baking paper",
+"localizedName": "baking paper",
+"image": "baking-paper.jpg"
+},
+{
+"id": 404727,
+"name": "baking sheet",
+"localizedName": "baking sheet",
+"image": "baking-sheet.jpg"
+},
+{
+"id": 404746,
+"name": "rolling pin",
+"localizedName": "rolling pin",
+"image": "rolling-pin.jpg"
+}
+]
+},
+{
+"number": 7,
+"step": "Spread over about 1,1-1,2 kg of grapes; drizzle two tablespoons of oil and sprinkle with 2 tablespoons of sugar and 1/2 teaspoon of aniseed.",
+"ingredients": [
+{
+"id": 2002,
+"name": "anise",
+"localizedName": "anise",
+"image": "aniseed-or-anise.jpg"
+},
+{
+"id": 9132,
+"name": "grapes",
+"localizedName": "grapes",
+"image": "red-grapes.jpg"
+},
+{
+"id": 0,
+"name": "spread",
+"localizedName": "spread",
+"image": ""
+},
+{
+"id": 19335,
+"name": "sugar",
+"localizedName": "sugar",
+"image": "sugar-in-bowl.png"
+},
+{
+"id": 4582,
+"name": "cooking oil",
+"localizedName": "cooking oil",
+"image": "vegetable-oil.jpg"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 8,
+"step": "Roll out the remaining 1/3 dough and lay it over grapes. Fold the pastry edges up to close the cake.",
+"ingredients": [
+{
+"id": 9132,
+"name": "grapes",
+"localizedName": "grapes",
+"image": "red-grapes.jpg"
+},
+{
+"id": 0,
+"name": "dough",
+"localizedName": "dough",
+"image": "pizza-dough"
+},
+{
+"id": 0,
+"name": "roll",
+"localizedName": "roll",
+"image": "dinner-yeast-rolls.jpg"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 9,
+"step": "Spread the remaining grapes, drizzle two tablespoons of oil and sprinkle with four tablespoons of sugar and 1/2 teaspoon of aniseed.",
+"ingredients": [
+{
+"id": 2002,
+"name": "anise",
+"localizedName": "anise",
+"image": "aniseed-or-anise.jpg"
+},
+{
+"id": 9132,
+"name": "grapes",
+"localizedName": "grapes",
+"image": "red-grapes.jpg"
+},
+{
+"id": 0,
+"name": "spread",
+"localizedName": "spread",
+"image": ""
+},
+{
+"id": 19335,
+"name": "sugar",
+"localizedName": "sugar",
+"image": "sugar-in-bowl.png"
+},
+{
+"id": 4582,
+"name": "cooking oil",
+"localizedName": "cooking oil",
+"image": "vegetable-oil.jpg"
+}
+],
+"equipment": [ ]
+},
+{
+"number": 10,
+"step": "Bake for about an hour.",
+"ingredients": [ ],
+"equipment": [
+{
+"id": 404784,
+"name": "oven",
+"localizedName": "oven",
+"image": "oven.jpg"
+}
+]
+}
+]
+}
+],
+"spoonacularSourceUrl": "https://spoonacular.com/pan-con-luva-654396"
+}
+],
+"offset": 0,
+"number": 10,
+"totalResults": 1
+}
