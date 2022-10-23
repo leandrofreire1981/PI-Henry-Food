@@ -9,8 +9,8 @@ async function idRecipesRouter(req, res, next){
     let recipe 
     try {
     if(id.length<30) {
-        recipe = await axios.get(`https://api.spoonacular.com/recipes/${id}/information?apiKey=${api_key1}`)
-        //recipe =  await axios(`http://localhost:3003/${id}`)
+        //recipe = await axios.get(`https://api.spoonacular.com/recipes/${id}/information?apiKey=${api_key1}`)
+        recipe =  await axios(`http://localhost:3003/${id}`)
         recipe = recipe.data
     }
      else{
@@ -26,7 +26,7 @@ async function idRecipesRouter(req, res, next){
         }        
             
  
-        console.log('receta de api: ', id.length)
+      
         res.status(200).json(recipe)
     }catch (e) {
         next(e)

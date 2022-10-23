@@ -1,6 +1,7 @@
 const { Recipe, Diet } = require('../../db.js')
 
 async function createRecipe(name, summary, healthScore, steps, diets){
+    const history = useHistory()
     if(!name || !summary ) throw Error('Missing Parameters')
     
     let dietTypes = await Diet.findAll({
