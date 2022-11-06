@@ -1,7 +1,8 @@
-import { NavLink } from 'react-router-dom'
+import { NavLink, useHistory } from 'react-router-dom'
 import style from '../styles/PostRecipes.module.css'
 
 export default function PostRecipes(props) {
+    const history = useHistory()
    
     let mensage = 'Tipo de dieta: '
     let name = 'Nombre: '

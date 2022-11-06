@@ -1,9 +1,11 @@
 import { useState } from "react"
 import { useSelector } from "react-redux"
+import { useHistory } from "react-router-dom"
 import { postRecipe } from "../actions"
 import styleHome from '../styles/Home.module.css'
 
 export default function CreateRecipe(){
+    const history = useHistory()
 
     const diets = useSelector(state => state.diets)
    
@@ -59,6 +61,7 @@ export default function CreateRecipe(){
         e.target.form[7].type = 'hidden'
      }
 
+
     return (
         <div className={styleHome.Home}>
             <h3 className={styleHome.title}>Crear una Receta</h3>
@@ -78,13 +81,14 @@ export default function CreateRecipe(){
                 </div>
                     <div> 
                         <label className={styleHome.title}>Tipos de dietas: </label>
-                        <select name='diets' onChange={handleOnSelect}>
+                        <select name='diets' onChange={handleOnSelect} id='selectDiets'>
                             <option className={styleHome.title} value=''>Seleccionar</option>
                             {
                             diets.length? diets.map((r, i) => (
                                 <option key = {i} value={r.name}>{r.name}</option>
                             )): null}
                     </select>
+                    <input type='button' name='btnDiet' value='Limpiar'  />
                     </div>
                 <div>
                     <label className={styleHome.title}>Pasos a seguir: </label>

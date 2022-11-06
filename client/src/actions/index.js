@@ -5,8 +5,8 @@ import image from '../img/plato-base.jpg'
 export function getAllRecipes() {
 
    return function(dispatch) {
-        fetch(`http://localhost:5000/recipes`)
-        //fetch('http://localhost:3003')
+        //fetch(`http://localhost:5000/recipes`)
+        fetch('http://localhost:3003')
             .then(r => r.json())
             .then(r => {
                 console.log('lo que llega', r)   
@@ -55,7 +55,7 @@ export function getRecipesByID(id) {
                     type: GET_DIETS,
                     payload: r
                 })
-            })
+            }).catch(error => console.error('Error:', error))
     }
  }
 
@@ -87,7 +87,7 @@ export function getRecipesFromDb(){
                         type: GET_RECIPE_BY_DB,
                         payload: r
                         })
-                    })
+                    }).catch(error => console.error('Error:', error))
                 }
 
 }

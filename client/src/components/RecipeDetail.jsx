@@ -1,6 +1,6 @@
 import { useEffect } from "react"
 import { useDispatch, useSelector } from "react-redux"
-import { NavLink, useParams } from "react-router-dom"
+import { NavLink, useHistory, useParams } from "react-router-dom"
 import { clreaState, getRecipesByID } from "../actions"
 import imgLoading from '../img/simpsons.gif'
 import style from '../styles/RecipeDetail.module.css'
@@ -8,6 +8,7 @@ import styleHome from '../styles/Home.module.css'
 import stylePage from '../styles/Page.module.css'
 
 export default function RecipeDetail(){
+    const history = useHistory()
     const { id }= useParams()
     const dispatch = useDispatch()
     
@@ -43,7 +44,7 @@ export default function RecipeDetail(){
                      <p key={i}>{r.name}</p>))} 
             </div>
            </div>
-           <div>Paso para cocinar:
+           <div>Pasos para cocinar:
             <div>
                  {recipe.steps?.map((r, i) => (
                      <p>{r}</p>))} 

@@ -12,8 +12,8 @@ async function recipesRouter(req, res, next) {
 
         if(!name){
           console.log('no tiene')
-          // const recipes = await axios(`https://api.spoonacular.com/recipes/complexSearch?apiKey=${api_key1}&addRecipeInformation=true&number=100`)
-            const recipes = await axios(`http://localhost:3003`) // resultados del archivo ../respuestas de api/api.js
+          const recipes = await axios(`https://api.spoonacular.com/recipes/complexSearch?apiKey=${api_key1}&addRecipeInformation=true&number=100`)
+            //const recipes = await axios(`http://localhost:3003`) // resultados del archivo ../respuestas de api/api.js
             data = recipes.data.results.map((e) => {
                 return {
                   id: e.id,

@@ -21,13 +21,11 @@ import LandingPage from './components/LandingPage';
 function App() {
 
   const dispatch = useDispatch()
-
-  //useEffect(() => dispatch(getDiets()), [dispatch])
   
- dispatch(getAllRecipes())
+  dispatch(getAllRecipes())
   dispatch(getDiets())
   dispatch(getRecipesFromDb())
-  //useEffect(() => dispatch( getRecipesFromDb(dispatch)), [dispatch])
+ 
   return (
     <div className="App">
    
@@ -35,7 +33,7 @@ function App() {
       <Route exact path='/'>
         <LandingPage />
       </Route>
-      <Route exact path='/home'>
+      <Route  path='/home'>
         <Nav />
         <Home />
       </Route>

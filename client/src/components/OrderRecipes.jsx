@@ -3,6 +3,7 @@ import { useDispatch } from "react-redux"
 import { alphaOrder, reverseAlphaOrder } from "../actions"
 
 export default function OrderRecipes(props){
+    const history = useHistory()
     const { recipes } = props
     const dispatch = useDispatch()
 

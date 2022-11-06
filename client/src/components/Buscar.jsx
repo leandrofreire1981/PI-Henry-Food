@@ -6,11 +6,14 @@ import image from '../img/error.jpg'
 import styleHome from '../styles/Home.module.css'
 import stylePage from '../styles/Page.module.css'
 import styleRecipe from '../styles/RecipeDetail.module.css'
+import { useHistory } from "react-router-dom";
 
 export default function Buscar(){
     
     const RECIPE_PAGE = 9
-
+    const history = useHistory()
+   
+    
     let array = []
     const recipes = useSelector(state => state.recipes)
     const diets = useSelector(state => state.diets)
@@ -26,7 +29,7 @@ export default function Buscar(){
     
     let aux = [...recipesFinded]
     let renderRecipes = aux.slice(firstRecipe, lastRecipe)
-    console.log('render sin orden: ', renderRecipes)    
+  
     
     function handleOnChange(e){
         setInput({[e.target.name]:e.target.value})
@@ -77,7 +80,7 @@ export default function Buscar(){
         }
         else if(ingreso[1].value){
             console.log('ingresaste: ', input.diets.toLocaleLowerCase())
-            for (let i = 0; i < recipes.length; i++) 
+            for (let i = 0; i < recipes.length; i=i+1) 
                 for (let j = 0; j < recipes[i].diets.length; j++) {
                     if(recipes[i].diets[j]===input.diets.toLocaleLowerCase())
                         array.push(recipes[i])   
@@ -132,8 +135,7 @@ export default function Buscar(){
     
        let array = [...recipesFinded]
        setRecipesFinded([...array.sort((a, b) => a.name.localeCompare(b.name))])
-       console.log('ordenado')
-      setCurrentPage(1)      
+       setCurrentPage(1)      
     }
 
     function reverseOrder(){
@@ -151,7 +153,7 @@ export default function Buscar(){
             <form onSubmit={(e) => handleOnSubmit(e)}>
                 <div className={styleHome.controls}>
                     <label className={styleRecipe.textB}>Ingrese una comida: </label>
-                    <input  type='text' name='name' pattern="^[A-Za-z' ']+$" title='Deben ser solo letras' className='input' onChange={handleOnChange}/>
+                    <input  type='text' name='name' title='Deben ser solo letras' className='input' onChange={handleOnChange}/>
                     <div>
 
                     <label className={styleRecipe.textB}>Ingrese tipo de dieta: </label>
